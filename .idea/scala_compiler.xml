@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <option name="compileOrder" value="ScalaThenJava" />
+    <parameters>
+      <parameter value="-server" />
+      <parameter value="-XX:PermSize=128M" />
+      <parameter value="-XX:MaxPermSize=256m" />
+    </parameters>
+    <profile name="Maven 1" modules="test,sparktest">
+      <parameters>
+        <parameter value="-target:jvm-1.7" />
+      </parameters>
+    </profile>
+  </component>
+</project>

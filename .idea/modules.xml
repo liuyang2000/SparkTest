@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloScala.iml" filepath="$PROJECT_DIR$/HelloScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jfinalweb/jfinalweb.iml" filepath="$PROJECT_DIR$/../jfinalweb/jfinalweb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sparktest/sparktest.iml" filepath="$PROJECT_DIR$/../sparktest/sparktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test-kafka/test-kafka.iml" filepath="$PROJECT_DIR$/../test-kafka/test-kafka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testjfinal/testjfinal.iml" filepath="$PROJECT_DIR$/../testjfinal/testjfinal.iml" />
+    </modules>
+  </component>
+</project>

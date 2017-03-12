@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jfinalweb" />
+        <module name="sparktest" />
+        <module name="test-kafka" />
+        <module name="testjfinal" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="jfinalweb" target="1.5" />
+      <module name="sparktest" target="1.7" />
+      <module name="test" target="1.7" />
+      <module name="test-kafka" target="1.5" />
+      <module name="testjfinal" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
